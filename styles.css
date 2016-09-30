@@ -1,0 +1,22 @@
+html, body {
+  /*height: 100%;*/
+  margin: 0;
+  padding: 10px 30px 20px;
+}
+
+h1
+{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+th {
+   text-align: center !important;   
+}
+
+#map {
+  height: 300px;
+  width: 90%;
+  border: 3px solid #ccc;
+  margin: auto;;
+}
